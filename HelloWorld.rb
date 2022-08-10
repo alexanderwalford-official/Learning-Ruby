@@ -2,9 +2,7 @@
 # and using the BEGIN and END functions to define 
 # the execution time for each print.
 
-BEGIN {
-    puts "Hello world!";
-}
-END {
-    puts "Goodbye!";
-}
+BEGIN 
+    puts "Hello world!"
+END
+puts "Goodbye!"
