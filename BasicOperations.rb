@@ -24,6 +24,6 @@ Class BasicOperations {
         else
             puts("A does not equal B, and A is greater than B! (A = #{i_a}, B = #{i_b})")
 
-    end
+    END
 
 }
